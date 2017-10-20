@@ -1,0 +1,22 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brainstorm-Chaser/Constructor-Hangman.git"
+  },
+  "author": "mike murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brainstorm-Chaser/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/Brainstorm-Chaser/Constructor-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
